@@ -2,7 +2,7 @@ body {
     background-color: #f7dddd;
     font-family: "DM Mono", monospace;
     font-size: 14px;
-    width: 80%;
+    width: 90%;
     margin: auto;
     
     
@@ -70,7 +70,7 @@ hr {
 .steps li {
     box-sizing: border-box;
 
-    width: 40%;
+    width: 60%;
     padding: 0.5em;
     margin: 1em auto;
 
@@ -86,8 +86,7 @@ hr {
 
 /* Ingredients list style */
 
-li .name,
-li .quantity {
+li span {
     display: inline-block;
 
 }
