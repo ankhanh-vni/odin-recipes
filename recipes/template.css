@@ -22,6 +22,10 @@ body {
         rgb(31, 33, 28) 5px 5px 0px 0px;
 }
 
+.title_highlight:hover {
+    color: #f71515;
+}
+
 
 .foodie_img {
     box-sizing: border-box;
